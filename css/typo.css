@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins&display=swap')
+
+
+
+p{
+  background-color: rgb(240, 240, 240);
+  margin-bottom: 0.5em;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  background-color: rgb(240, 240, 240);
+  font-size: 4em;
+  margin-bottom: 1em;
+  font-family: 'Playfair Display';
+}s

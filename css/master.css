@@ -1,0 +1,24 @@
+body{
+  background-color: rgb(250, 250, 250);
+}
+
+
+ h1{
+text-align: center;
+
+
+}
+
+figure {
+  background: url('images/rat_01.jpg') no-repeat
+  background-attachment: fixed;
+  text-align: center;
+}
+
+div{
+  text-align: left;
+  padding-left: 35em;
+  padding-right: 30em;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
